@@ -5,7 +5,7 @@ This is a simple one-page that presents information about insects in a zoo exhib
   -CSS
 ## Features
 -Navigation menu
--Image dsplay 
+-Image display 
 -rounded card design
 ## Live Demo
 https://yohana622.github.io/Zoo-project/
