@@ -6,9 +6,9 @@ The webpage presents information about insects from the class Insecta. It is des
        -HTML
        -CSS
 ## Features
--Navigation menu
--Image display 
--rounded card design
+      -Navigation menu
+      -Image display 
+      -rounded card design
 ## Live Demo
 https://yohana622.github.io/Zoo-project/
 ## Author
